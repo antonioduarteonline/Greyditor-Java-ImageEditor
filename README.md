@@ -40,18 +40,6 @@ Esta aplicação utiliza a biblioteca **Greyditor** para manipular imagens em to
 - Programação orientada a objetos
 - Verificação de limites para evitar erros (`ArrayIndexOutOfBounds`)
 
----
-
-## 📸 Demonstrações
-
-| Efeito | Antes | Depois |
-|--------|-------|--------|
-| Mirror Horizontal | ![before](assets/sample.jpg) | _resultado_ |
-| Posterizar | ![before](assets/sample.jpg) | _resultado_ |
-
-> Podes substituir por imagens antes/depois dos efeitos aplicados.
-
----
 
 ## ▶️ Como executar
 
