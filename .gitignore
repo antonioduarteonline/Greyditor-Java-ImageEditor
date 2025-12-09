@@ -1,0 +1,21 @@
+# Java build files
+*.class
+*.iml
+
+# IntelliJ project folders
+.idea/
+out/
+target/
+bin/
+
+# macOS system file
+.DS_Store
+
+# Images from testing (optional)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Jar libraries (opcional excluir)
+*.jar
