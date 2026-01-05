@@ -1,6 +1,6 @@
 # 🎨 Greyditor Java Image Editor
 
-Projeto desenvolvido na Unidade Curricular **Introdução à Programação (IPA)** - ISCTE.
+Projeto desenvolvido na Unidade Curricular **Introdução à Programação (IP)** - ISCTE.
 
 Esta aplicação utiliza a biblioteca **Greyditor** para manipular imagens em tons de cinzento, permitindo aplicar diversos **filtros, efeitos e operações sobre a matriz da imagem** ao nível dos pixels.
 
